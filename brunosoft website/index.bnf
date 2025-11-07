@@ -1,1 +1,3 @@
-Hello this is tom!
+This is brunosoft website!
+
+about page: {{ https://raw.githubusercontent.com/brunowebserver/brunosoft/main/about.bnf }}
